@@ -1,0 +1,32 @@
+body{
+	background-color: #d9d9f2;
+}
+h1{
+	text-align: left;
+	padding-bottom: 15px;
+}
+i{
+	height:40px;
+	width:40px;
+	float: left;
+}
+.one{
+	width:200px;
+	float:right;
+	margin-right: 100px;
+}
+.two{
+	width:200px;
+	float:right;
+	margin-right: 200px;
+}
+.deve{
+	height:600px;
+	width:500px;
+	float:left;
+	margin: 5px 40px 5px 5px;
+}
+.move{
+	padding:36px;
+	margin:25px auto;
+}
